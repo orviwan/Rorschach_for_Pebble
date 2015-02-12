@@ -1,0 +1,75 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Orviwan",
+    "longName": "Rorschach by IGotAKnife",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/10.png",
+                "name": "IMAGE_10",
+                "type": "png"
+            },
+            {
+                "file": "images/9.png",
+                "name": "IMAGE_09",
+                "type": "png"
+            },
+            {
+                "file": "images/8.png",
+                "name": "IMAGE_08",
+                "type": "png"
+            },
+            {
+                "file": "images/7.png",
+                "name": "IMAGE_07",
+                "type": "png"
+            },
+            {
+                "file": "images/6.png",
+                "name": "IMAGE_06",
+                "type": "png"
+            },
+            {
+                "file": "images/5.png",
+                "name": "IMAGE_05",
+                "type": "png"
+            },
+            {
+                "file": "images/4.png",
+                "name": "IMAGE_04",
+                "type": "png"
+            },
+            {
+                "file": "images/3.png",
+                "name": "IMAGE_03",
+                "type": "png"
+            },
+            {
+                "file": "images/2.png",
+                "name": "IMAGE_02",
+                "type": "png"
+            },
+            {
+                "file": "images/1.png",
+                "name": "IMAGE_01",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Rorschach by IGotAKnife",
+    "uuid": "12b68460-32ea-41e4-8b29-b62357871e60",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
